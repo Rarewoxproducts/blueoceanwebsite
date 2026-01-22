@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom';
+import { Facebook, Instagram, Linkedin } from 'lucide-react';
 
 const Footer = () => {
   const footerLinks = [
@@ -19,7 +20,7 @@ const Footer = () => {
           <div className="flex flex-col items-start">
             <div className="mb-6">
               <img
-                src="/photo_2026-01-15_09-02-33.jpg"
+                src="/whatsapp_image_2026-01-13_at_4.27.45_pm.jpeg"
                 alt="Blue Ocean Holdings LLC"
                 className="h-20 w-auto object-contain"
               />
@@ -27,6 +28,36 @@ const Footer = () => {
             <p className="text-gray-600 leading-relaxed italic text-lg">
               A leading infrastructure investor.
             </p>
+            <div className="mt-6">
+              <p className="text-sm text-gray-500 mb-3">Follow us on</p>
+              <div className="flex gap-4">
+                <a
+                  href="https://www.facebook.com/share/1BfG329JvV/?mibextid=wwXIfr"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-gray-600 hover:text-blue-600 transition-colors"
+                  aria-label="Follow us on Facebook"
+                >
+                  <Facebook size={24} />
+                </a>
+                <a
+                  href="https://www.instagram.com/blueoceanho/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-gray-600 hover:text-blue-600 transition-colors"
+                  aria-label="Follow us on Instagram"
+                >
+                  <Instagram size={24} />
+                </a>
+                <a
+                  href="#"
+                  className="text-gray-600 hover:text-blue-600 transition-colors"
+                  aria-label="Follow us on LinkedIn"
+                >
+                  <Linkedin size={24} />
+                </a>
+              </div>
+            </div>
           </div>
 
           <div className="flex flex-wrap gap-6">

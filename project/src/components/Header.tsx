@@ -33,9 +33,9 @@ const Header = () => {
         <div className="flex items-center justify-between">
           <Link to="/" className="flex items-center">
             <img
-              src="/photo_2026-01-15_09-02-33.jpg"
+              src="/whatsapp_image_2026-01-13_at_4.27.45_pm.jpeg"
               alt="BlueOcean Holdings LLC"
-              className="h-16 w-auto"
+              className="h-16 w-auto object-contain"
             />
           </Link>
 
