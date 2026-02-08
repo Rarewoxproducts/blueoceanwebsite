@@ -37,14 +37,11 @@ const EnergyTransition = () => {
 
           <div className="max-w-2xl space-y-6">
             <p className="text-xl md:text-2xl text-white/95 leading-relaxed">
-              Blue Ocean Holdings LLC is committed to facilitating the global energy transition. We have a team focused on decarbonization investment
+              BlueOcean Holdings LLC is committed to facilitating the global energy transition. We have a team focused on decarbonization investment
               opportunities across our targeted sectors.
             </p>
 
-            <button className="group flex items-center space-x-2 text-green-400 font-medium hover:text-green-300 transition-colors mt-8">
-              <span className="text-sm tracking-wider">OUR STRATEGY</span>
-              <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
-            </button>
+            
           </div>
         </div>
       </div>

@@ -31,17 +31,17 @@ const Hero = () => {
       <div className="relative z-10 min-h-screen flex flex-col justify-center px-6 pt-24">
         <div className="max-w-7xl mx-auto w-full">
           <div className="mb-8 animate-slideInUp">
-            <p className="text-white/90 text-sm md:text-base mb-2 font-light tracking-wide">
-              Blue Ocean Holdings LLC is a
+           <p className="text-white/90 text-lg md:text-xl mb-2 font-light tracking-wide">
+              BLUEOCEAN HOLDINGS LLC is a
             </p>
             <p className="text-white/90 text-sm md:text-base font-light tracking-wide">
-              leading infrastructure investor
+              LEADING INFRASTRUCTURE INVESTOR
             </p>
           </div>
 
           <div className="space-y-4 mb-12">
             <h1 className="text-4xl md:text-6xl lg:text-7xl font-light text-white tracking-tight animate-slideInUp animation-delay-200">
-              INVESTING IN INFRASTRUCTURE
+              INVESTING IN GlOBAL INFRASTRUCTURE
             </h1>
 
             <div className="relative h-20 md:h-24 overflow-hidden">

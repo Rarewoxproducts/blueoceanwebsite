@@ -7,13 +7,13 @@ const News = () => {
   const newsItems = [
     {
       title:
-        'Blue Ocean Holdings LLC is joined by Global Infrastructure Partners to launch a global data center development platform with initial $7.6B AUM portfolio',
+        'BlueOcean Holdings LLC is joined by Global Infrastructure Partners to launch a global data center development platform with initial $7.6B AUM portfolio',
       company: 'Company News',
       date: '15 November, 2025'
     },
     {
       title:
-        "AI Infrastructure Partnership (AIP), MCX and Blackfin & CLS's Blue Ocean Holdings LLC to Acquire AI Equity to Aligned Data Centers",
+        "AI Infrastructure Partnership (AIP), MCX and Blackfin & CLS's BlueOcean Holdings LLC to Acquire AI Equity to Aligned Data Centers",
       company: 'Company News',
       date: '12 October, 2025'
     },

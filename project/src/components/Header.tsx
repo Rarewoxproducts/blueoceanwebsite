@@ -21,6 +21,7 @@ const Header = () => {
     { label: 'PORTFOLIO', path: '/portfolio' },
     { label: 'TEAM', path: '/team' },
     { label: 'CAREERS', path: '/careers' },
+    { label: 'CONTACT', path: '/contact' },
   ];
 
   return (
@@ -35,7 +36,7 @@ const Header = () => {
             <img
               src="/whatsapp_image_2026-01-13_at_4.27.45_pm.jpeg"
               alt="BlueOcean Holdings LLC"
-              className="h-16 w-auto object-contain"
+              className="h-24 w-auto object-contain"
             />
           </Link>
 

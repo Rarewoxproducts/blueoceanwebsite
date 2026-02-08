@@ -100,11 +100,11 @@ const CareersPage = () => {
           <div className="mb-16">
             <div className="flex items-center space-x-2 mb-8">
               <div className="w-2 h-2 bg-blue-600 rounded-full"></div>
-              <h2 className="text-sm font-semibold text-gray-700 tracking-wider">WHY BLUE OCEAN</h2>
+              <h2 className="text-sm font-semibold text-gray-700 tracking-wider">WHY BLUEOCEAN HOLDINGS LLC</h2>
             </div>
 
             <h3 className="text-3xl md:text-4xl font-light text-gray-800 mb-8 max-w-5xl" style={{ fontFamily: 'Georgia, serif' }}>
-              At Blue Ocean Holdings LLC, you'll work alongside industry leaders on some of the world's most impactful infrastructure projects.
+              At BlueOcean Holdings LLC, you'll work alongside industry leaders on some of the world's most impactful infrastructure projects.
             </h3>
 
             <p className="text-lg text-gray-700 leading-relaxed max-w-4xl mb-12">

@@ -167,7 +167,7 @@ const AboutPage = () => {
       >
         <div className="max-w-7xl mx-auto">
           <h2 className="text-5xl md:text-6xl font-serif text-gray-900 mb-20 text-center" style={{ fontFamily: 'Georgia, serif' }}>
-            BLUE OCEAN IN NUMBERS
+            BLUEOCEAN HOLDINGS LLC IN NUMBERS
           </h2>
 
           <div className="grid md:grid-cols-3 gap-16">

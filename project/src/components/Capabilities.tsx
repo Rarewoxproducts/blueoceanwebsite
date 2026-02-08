@@ -7,19 +7,19 @@ const Capabilities = () => {
     {
       title: 'Global Equity',
       description:
-        'Our Flagship infrastructure equity funds focus more than the competition of Blue Ocean Holdings LLC since our founding in 2008. Our experience and proven track record enable us to efficiently manage some of the largest, most complex infrastructure assets.',
+        'Our Flagship infrastructure equity funds focus more than the competition of BlueOcean Holdings LLC since our founding in 2008. Our experience and proven track record enable us to efficiently manage some of the largest, most complex infrastructure assets.',
       image: 'https://images.pexels.com/photos/325229/pexels-photo-325229.jpeg?auto=compress&cs=tinysrgb&w=800'
     },
     {
       title: 'Specialized Equity',
       description:
-        "We pursue specific equity strategies focused on tailored strategies to serve specific needs. We leverage our investment and asset management experience through Blue Ocean Holdings LLC's Core, Asia, and European Mid-Market equity strategies.",
+        "We pursue specific equity strategies focused on tailored strategies to serve specific needs. We leverage our investment and asset management experience through BlueOcean Holdings LLC's Core, Asia, and European Mid-Market equity strategies.",
       image: 'https://images.pexels.com/photos/4386346/pexels-photo-4386346.jpeg?auto=compress&cs=tinysrgb&w=800'
     },
     {
       title: 'Credit',
       description:
-        "Blue Ocean Holdings LLC credit funds provide customized capital solutions for infrastructure projects and companies across the power and utilities, renewable power, transport, and other sectors. Our strategies leverage Blue Ocean Holdings LLC's significant operating expertise.",
+        "BlueOcean Holdings LLC credit funds provide customized capital solutions for infrastructure projects and companies across the power and utilities, renewable power, transport, and other sectors. Our strategies leverage BlueOcean Holdings LLC's significant operating expertise.",
       image: 'https://images.pexels.com/photos/7821513/pexels-photo-7821513.jpeg?auto=compress&cs=tinysrgb&w=800'
     }
   ];

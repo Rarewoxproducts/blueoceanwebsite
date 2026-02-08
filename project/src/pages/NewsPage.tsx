@@ -8,7 +8,7 @@ const NewsPage = () => {
     {
       date: 'January 10, 2026',
       category: 'Investment',
-      title: 'Blue Ocean Holdings LLC Acquires Major Solar Portfolio in Southeast Asia',
+      title: 'BlueOcean Holdings LLC Acquires Major Solar Portfolio in Southeast Asia',
       excerpt: 'Acquisition adds 2GW of renewable energy capacity to our growing portfolio of sustainable assets.',
       image: 'https://images.pexels.com/photos/2800832/pexels-photo-2800832.jpeg?auto=compress&cs=tinysrgb&w=800',
     },
@@ -36,7 +36,7 @@ const NewsPage = () => {
     {
       date: 'September 12, 2025',
       category: 'Achievement',
-      title: 'Blue Ocean Holdings LLC Named Infrastructure Investor of the Year',
+      title: 'BlueOcean Holdings LLC Named Infrastructure Investor of the Year',
       excerpt: 'Industry recognition for sustainable investment practices and portfolio performance.',
       image: 'https://images.pexels.com/photos/3184357/pexels-photo-3184357.jpeg?auto=compress&cs=tinysrgb&w=800',
     },
@@ -57,7 +57,7 @@ const NewsPage = () => {
             News & Insights
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl">
-            Stay updated with the latest developments, announcements, and insights from Blue Ocean Holdings LLC
+            Stay updated with the latest developments, announcements, and insights from BlueOcean Holdings LLC
           </p>
         </div>
       </section>

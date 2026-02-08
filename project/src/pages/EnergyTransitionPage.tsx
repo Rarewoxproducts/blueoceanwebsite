@@ -29,10 +29,7 @@ const EnergyTransitionPage = () => {
                 We aspire to be one of the world's leading owners, developers, and operators of renewable energy assets. In line with our commitment to facilitating the global energy transition, we have a team focused on decarbonization investment opportunities across our targeted sectors.
               </p>
 
-              <button className="bg-green-500 hover:bg-green-600 text-white font-semibold px-8 py-4 rounded transition-colors flex items-center space-x-2">
-                <span>Learn how we measure and manage risk</span>
-                <ArrowRight className="w-5 h-5" />
-              </button>
+              
             </div>
 
             <div>
@@ -195,7 +192,7 @@ const EnergyTransitionPage = () => {
       >
         <div className="max-w-7xl mx-auto">
           <h2 className="text-5xl md:text-7xl font-serif text-gray-900 mb-12" style={{ fontFamily: 'Georgia, serif' }}>
-            GIVING AT BLUE OCEAN
+            GIVING AT BLUEOCEAN HOLDINGS LLC
           </h2>
 
           <p className="text-2xl md:text-3xl font-light text-gray-800 leading-relaxed mb-16 max-w-5xl" style={{ fontFamily: 'Georgia, serif' }}>

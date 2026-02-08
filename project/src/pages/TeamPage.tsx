@@ -50,7 +50,7 @@ const TeamPage = () => {
 
           <div>
             <p className="text-lg text-white leading-relaxed">
-              Blue Ocean Holdings LLC was built by combining financial and operational expertise to improve businesses for the long-term. Today, this ambition is still carried globally by a cohesive, experienced and diverse team of leaders who bring expertise across the Investment, Business Improvement and Credit disciplines, with an additional focus on Sustainability. These individuals bring a wealth of industry knowledge and hands-on operational expertise, as well as awareness of industrial and financial best practices, to ensure that Blue Ocean Holdings LLC is well positioned to deliver differentiated perspectives and improved business performance.
+              BlueOcean Holdings LLC was built by combining financial and operational expertise to improve businesses for the long-term. Today, this ambition is still carried globally by a cohesive, experienced and diverse team of leaders who bring expertise across the Investment, Business Improvement and Credit disciplines, with an additional focus on Sustainability. These individuals bring a wealth of industry knowledge and hands-on operational expertise, as well as awareness of industrial and financial best practices, to ensure that BlueOcean Holdings LLC is well positioned to deliver differentiated perspectives and improved business performance.
             </p>
           </div>
         </div>

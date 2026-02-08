@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { Facebook, Instagram, Linkedin } from 'lucide-react';
+import { Facebook, Instagram, Linkedin, Youtube, Twitter } from 'lucide-react';
 
 const Footer = () => {
   const footerLinks = [
@@ -7,8 +7,7 @@ const Footer = () => {
     { label: 'ENERGY TRANSITION & SUSTAINABILITY', path: '/energy-transition' },
     { label: 'PORTFOLIO', path: '/portfolio' },
     { label: 'TEAM', path: '/team' },
-    { label: 'CAREERS', path: '/careers' },
-    { label: 'CONTACT US', path: '#' }
+    { label: 'CAREERS', path: '/careers' }
   ];
 
   const legalLinks = ['Privacy Policy', 'Privacy Rights', 'Terms of Use', 'Additional Disclosures'];
@@ -21,8 +20,8 @@ const Footer = () => {
             <div className="mb-6">
               <img
                 src="/whatsapp_image_2026-01-13_at_4.27.45_pm.jpeg"
-                alt="Blue Ocean Holdings LLC"
-                className="h-20 w-auto object-contain"
+                alt="BlueOcean Holdings LLC"
+                className="h-32 w-auto object-contain"
               />
             </div>
             <p className="text-gray-600 leading-relaxed italic text-lg">
@@ -56,6 +55,24 @@ const Footer = () => {
                 >
                   <Linkedin size={24} />
                 </a>
+                <a
+                  href="https://www.youtube.com/channel/UCZufBAhXYWTBZgaEro3h3mQ"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-gray-600 hover:text-blue-600 transition-colors"
+                  aria-label="Follow us on YouTube"
+                >
+                  <Youtube size={24} />
+                </a>
+                <a
+                  href="https://x.com/blueoceanhohq"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-gray-600 hover:text-blue-600 transition-colors"
+                  aria-label="Follow us on X"
+                >
+                  <Twitter size={24} />
+                </a>
               </div>
             </div>
           </div>
@@ -86,7 +103,7 @@ const Footer = () => {
         <div className="border-t border-gray-200 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-sm text-gray-500">
-              © 2026 Blue Ocean Holdings LLC. All rights reserved.
+              © 2026 BlueOcean Holdings LLC. All rights reserved.
             </p>
 
             <div className="flex flex-wrap gap-6">
